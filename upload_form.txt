@@ -1,0 +1,7 @@
+1. simple upload file
+2. .csv, .txt or .zip files only
+3. full window page ni sya
+optional but nice kung naa:
+1. mapakita nimo kung ang file size niya
+2. ipakita pud ang total lines sa file
+3. kung zip file, ang pinakauna na file ang i read
